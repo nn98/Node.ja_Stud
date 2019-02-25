@@ -1,2 +1,2 @@
-# Node.ja_Stud
+# Node.js_Stud
 Node.js practice
