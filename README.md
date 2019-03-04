@@ -1,4 +1,10 @@
 # Node.js_Stud
+* * *
+  - _Error log_
+    - cannot find module express
+      - [solve 1](https://m.blog.naver.com/wlsdml1103/221281347291)
+      - [solve 2](https://stackoverflow.com/questions/17162308/node-js-error-cannot-find-module-express) choose Mustafamg's
+* * *
 Node.js practice
   - 03/02 _ Node 웹 서버 구축
     - [Routing](https://m.blog.naver.com/wlsdml1103/221154194152) T1
